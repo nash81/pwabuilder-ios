@@ -2,9 +2,12 @@
 You've successfully generated an iOS app package for your PWA. 😎
 
 Your next steps:
-1. **Build your project** in Xcode
-2. **Test your app**: Run your project in Xcode to try out your PWA on an iPhone simulator or physical iOS device.
-3. **Submit your app to the iOS App Store**
+Inside Xenio folder ->
+1. Open info.plist and change africa.xenio.in with your domain name.
+2. Open settings.swift and change allowedOrigin to your domain name
+3. **Build your project** in Xcode
+4. **Test your app**: Run your project in Xcode to try out your PWA on an iPhone simulator or physical iOS device.
+5. **Submit your app to the iOS App Store**
 
 What you'll need:
 
